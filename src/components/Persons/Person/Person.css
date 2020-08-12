@@ -1,0 +1,16 @@
+.Person {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 30%;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid grey;
+    background-color: lightgray;
+}
+
+.listDanger {
+    background-color: red;
+}
+
+.Person button{
+    background-color: lightsalmon;   
+}
